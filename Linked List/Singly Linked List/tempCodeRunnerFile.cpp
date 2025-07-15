@@ -1,0 +1,1 @@
+prevNode->next =nullptr;
